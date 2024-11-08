@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# Tópicos en matemáticas
+# Tópicos de matemáticas
 
-_yay_
+_En esta sección iré agregando teoría y practica de matemátia que sea útil para lo que vaya aprendiendo._
 
 [back](./)
