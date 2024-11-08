@@ -6,6 +6,8 @@ Aquí encontrarás proyectos, análisis y notas de estudio que documentan mi cam
 <a href="https://www.linkedin.com/in/maría-julissa-barboza-arce-4a9065311" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30">
 </a>
+
+
 ## [Matemáticas](./math_topics.md)
 ## [Ciberseguridad](./ciber_concepts.md)
 ## [Conceptos básicos](./basic_concepts.md)
