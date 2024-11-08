@@ -5,6 +5,6 @@ Aquí encontrarás proyectos, análisis y notas de estudio que documentan mi cam
 
 ## [Matemáticas](./math_topics.md)
 ## [Ciberseguridad](./ciber_concepts.md)
-## [Conceptos básicos]
+## [Conceptos básicos](./basic_concepts.md)
 
 
