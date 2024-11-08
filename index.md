@@ -3,6 +3,7 @@ A lo largo de mis estudios, he desarrollado una fuerte habilidad para entender y
 Me interesa contribuir al campo de la seguridad mediante el análisis matemático y la implementación de algoritmos criptográficos. 
 Aquí encontrarás proyectos, análisis y notas de estudio que documentan mi camino hacia una carrera en criptografía.
 
-## [Tópicos de matemáticas](./math_topics.md)
+## [Matemáticas](./math_topics.md)
+## [Ciberseguridad](./ciber_concepts.md)
 
 
