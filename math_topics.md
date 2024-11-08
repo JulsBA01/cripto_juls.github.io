@@ -4,6 +4,6 @@ layout: default
 
 # Tópicos de matemáticas
 
-_En esta sección iré agregando teoría y practica de matemátia que sea útil para lo que vaya aprendiendo._
+_En esta sección agregaré teoría y práctica de conceptos matemáticos que considere relevantes para el aprendizaje._
 
 [back](./)
