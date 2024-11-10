@@ -10,23 +10,23 @@ layout: default
 Gracias a la definición de seguridad computacional podemos ver los objetivos principales de la ciberseguridad a los cuales se les conoce como la _triada de la CIA_.
 
 ## Triada de la CIA
-
-### Confidencialidad:
-Se busca asegurar que los datos del sistema de información no llegue a usuarios no autorizados.
-
-### Integridad:
-Se busca asegurar que los datos del sistema de información no sea alterada por usuarios no autorizados, la idea es que cada cambio en los datos del sistema de información sean unicamente hechos por usuarios autorizados y que cada cambio sea monitoreado.
-
-### Disponibilidad:
-Se busca asegurar que el sistema funcione adecuadamente y que los datos no sean denegados a usuarios autorizados.
-
+>
+>### Confidencialidad:
+>Se busca asegurar que los datos del sistema de información no llegue a usuarios no autorizados.
+>
+>### Integridad:
+>Se busca asegurar que los datos del sistema de información no sea alterada por usuarios no autorizados, la idea es que cada cambio en los datos del sistema de información >sean unicamente hechos por usuarios autorizados y que cada cambio sea monitoreado.
+>
+>### Disponibilidad:
+>Se busca asegurar que el sistema funcione adecuadamente y que los datos no sean denegados a usuarios autorizados.
+>
 ## Modelo OSI
-El modelo OSI divide el sistema de comunicación de red en 7 capas que nos ayudan a identificar dónde ocurre un problema en la red. Este modelo permite que diversos sistemas de comunicaciones de conecten usando estas capas como un estándar.
-
-### Capa 7: Capa de aplicación:
-La capa de aplicación es responsable de los protocolos y la manipulación de datos de los que depende el software para presentar datos significativos al usuario. Es la única capa que interactúa directamente con los datos del usuario.
-
-### Capa 6: Capa de presentación:
+>El modelo OSI divide el sistema de comunicación de red en 7 capas que nos ayudan a identificar dónde ocurre un problema en la red. Este modelo permite que diversos sistemas >de comunicaciones de conecten usando estas capas como un estándar.
+>
+>### Capa 7: Capa de aplicación:
+>La capa de aplicación es responsable de los protocolos y la manipulación de datos de los que depende el software para presentar datos significativos al usuario. Es la única >capa que interactúa directamente con los datos del usuario.
+>
+>### Capa 6: Capa de presentación:
 La capa de presentación es responsable de la traducción, el cifrado y la compresión de los datos. También es la encargada de comprimir los datos que recibe de la capa de aplicación antes de ser enviados a la capa 5.
  
 ### Capa 5: Capa de sesión:
