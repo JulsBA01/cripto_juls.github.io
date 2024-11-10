@@ -9,6 +9,8 @@ layout: default
    <strong>Seguridad Computacional:</strong> Es la protección otorgada a un sistema de información automatizada para alcanzar los objetivos de preservar la integridad, disponibilidad y confidencialidad de los recursos del sistema.
 </div>
 
+
+
 La definición de seguridad computacional nos indica los principales objetivos principales de la ciberseguridad a los cuales se les conoce como _triada de la CIA_.
 
 ## Triada de la CIA
