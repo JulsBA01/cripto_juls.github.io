@@ -19,7 +19,8 @@ Gracias a la definición de seguridad computacional podemos ver los objetivos pr
 >
 >### Disponibilidad:
 >Se busca asegurar que el sistema funcione adecuadamente y que los datos no sean denegados a usuarios autorizados.
->
+
+
 ## Modelo OSI
 >El modelo OSI divide el sistema de comunicación de red en 7 capas que nos ayudan a identificar dónde ocurre un problema en la red. Este modelo permite que diversos sistemas >de comunicaciones de conecten usando estas capas como un estándar.
 >
